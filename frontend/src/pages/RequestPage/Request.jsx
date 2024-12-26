@@ -110,7 +110,7 @@ const Request = () => {
             };
 
             const { data } = await axios.post(
-                "http://localhost:5000/api/issue/submitted",
+                "https://kagajapp.onrender.com/api/issue/submitted",
                 {
                     "url": pdfUrl,
                     "id": selectedid,
@@ -162,7 +162,7 @@ const Request = () => {
             };
 
             const Data = await axios.get(
-                "http://localhost:5000/api/issue/getall",
+                "https://kagajapp.onrender.com/api/issue/getall",
                 config
             );
 
@@ -236,7 +236,7 @@ const Request = () => {
             };
 
             const { data } = await axios.post(
-                "http://localhost:5000/api/issue/rejected",
+                "https://kagajapp.onrender.com/api/issue/rejected",
                 {
                     "id": id,
                 },
