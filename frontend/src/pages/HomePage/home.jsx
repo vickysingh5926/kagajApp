@@ -48,18 +48,18 @@ const Home = () => {
                         />
                         <div class="container">
                             <div style={{ d: 'flex', textAlign: "center" }}>
-                                <b >Sushant Yerawar</b>
+                                <b >Tejas Kamble</b>
                                 <p class="title" >CEO & Founder</p>
-                                <b>sushantdilipyerawar2002@gmail.com</b>
+                                <b>tejas2002@gmail.com</b>
                             </div>
 
 
                             <p style={{ paddingTop: "2%", paddingBottom: "2%" }}>
-                                I am Sushant Yerawar. Currently pursuing my bachelor's in Computer Science and Engineering at IIT
-                                Bhilai. I am well-versed in data structures and algorithms and have a keen interest in competitive
-                                programming and also have interest in Web Development. I have a industrial experience as <b> Frontend Developer. </b>
+                                I am Tejas Kamble. Currently pursuing my bachelor's degree in Civil Engineering at IIT
+                                Dhanbad. I am well-versed in data structures and algorithms and have a keen interest in competitive
+                                programming and also have interest in Web Development. I have an industrial experience as <b> Full Stack Developer. </b>
                                 I am looking for <b>full time Oppurtunities. </b>
-                                Please have a look at my <b><a href="https://drive.google.com/file/d/1z2YA_3f5saolDol0V4ZHrjfrY28KGSFw/view?usp=drive_link">resume</a></b> and <b> <a href="https://www.linkedin.com/in/sushant-yerawar-b0191a204/">LinkedIn</a></b> profile for better insight.
+                                Please have a look at my <b><a href="https://drive.google.com/drive/folders/1tJveFB8Oh66pee_5AK4ytAeauwlRXVz0?usp=drive_link">resume</a></b> and <b> <a href="https://www.linkedin.com/in/tejas-kamble-iitism/">LinkedIn</a></b> profile for better insight.
                             </p>
 
                             <p padding><button class="button">Contact</button></p>
@@ -78,13 +78,13 @@ const Home = () => {
                         />
                         <div class="container">
                             <div style={{ d: 'flex', textAlign: "center" }}>
-                                <b>Akshay Wairagade</b>
+                                <b>Vicky Singh</b>
                                 <p class="title" >CEO & Founder</p>
-                                <b> akshaywairagade2@gmail.com</b>
+                                <b> vickysingh88050@gmail.com</b>
                             </div>
                             <p style={{ paddingTop: "2%", paddingBottom: "2%" }}>I am passionate Software Developer having strong interest in competitive programming and developing my knack for Full Stack Development
-                                who have done <b>Internship at Coinbase as Backend Engineer</b>. I have been <b>ICPC Regionalist</b> and also Expert at Codeforces and 5 star at Codechef. I am open for any collaborations . I am <b>looking out for Full Time Oppurtunities</b> and also
-                                attaching my <b><a href="https://drive.google.com/file/d/1CAxM7QoIwQsVmW3UZIwLp37swttK_Bkq/view?usp=sharing">resume</a></b> for your reference.</p>
+                                who have done <b>Internship at Innobyte as Full Stack Developer</b>. I have been <b>Specialist Coder</b>at Codeforces and 3 star at Codechef. I am open for any collaborations . I am <b>looking out for Full Time Oppurtunities</b> and also
+                                attaching my <b><a href="https://drive.google.com/file/d/1TZawwMqwF0502rj_9dtrmfhBa0hJfR1f/view?usp=drive_link">resume</a></b> for your reference.</p>
 
                             <p><button class="button">Contact</button></p>
                         </div>
